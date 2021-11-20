@@ -1,7 +1,7 @@
 # Keeper-App
 A Web based note taking app.
 
-This application was bootstrapped using create-react-app.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 To use it:
 1. Clone this repo
